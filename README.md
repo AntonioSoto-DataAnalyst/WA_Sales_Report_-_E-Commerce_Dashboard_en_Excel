@@ -1,5 +1,8 @@
 # WA Sales Report - E-Commerce Dashboard en Excel 📊
 
+![Uploading image.png…]()
+
+
 Descripción del Proyecto
 Este proyecto consiste en el desarrollo de un dashboard interactivo creado completamente en Microsoft Excel. El objetivo principal es analizar el rendimiento financiero y de ventas de una empresa de comercio electrónico entre los años 2012 y 2014, transformando datos transaccionales crudos en visualizaciones estratégicas que faciliten la toma de decisiones.
 
