@@ -1,6 +1,6 @@
 # WA Sales Report - E-Commerce Dashboard en Excel 📊
 
-![Uploading image.png…]()
+![Uploading image.png…](https://github.com/AntonioSoto-DataAnalyst/WA_Sales_Report_-_E-Commerce_Dashboard_en_Excel/blob/main/Ventas%20d1.png)
 
 
 Descripción del Proyecto
